@@ -4,11 +4,11 @@ collection: teaching
 type: "Hybrid Undergraduate/Graduate Course"
 permalink: /teaching/0-capstones
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: 2017-1-1
+date: 2022-1-1
 location: "Rochester, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Capstones supervised between Spring 2017 and Spring 2022
 
 Heading 1
 ======
