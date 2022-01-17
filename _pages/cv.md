@@ -21,6 +21,7 @@ Work experience
   * 2021 - Present, Sr. Lecturer
   * 2018 - Present, Undergraduate Program Director
   * 2017 - Present, Technical Director / Senior Penetration Tester - Eaton Cybersecurity SAFE Lab
+    * Directing - in a hands-on capacity - web application security assessments, network penetration tests, and vulnerability assessments  
   * 2016 - 2021, Lecturer
   * Selected Service:
     * 2016 - Present, Department of Computing Security Curriculum Committee
@@ -35,22 +36,27 @@ Work experience
 
 
 * State University of New York at Fredonia, Department of Computer and Information Sciences
-  * (2011 - 2016) Full Time Instructor
-  * (2009 - 2016) Assistant System Administrator
-  * (2008 - 2011) Adjunct Instructor
-  * Duties included: 
+  * 2011 - 2016, Full Time Instructor
+  * 2009 - 2016, Assistant System Administrator
+  * 2008 - 2011, Adjunct Instructor
 
 * Jamestown Community College
   * (2009 - 2016) Adjunct Instructor
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Offensive Security
+  * Penetration Testing
+  * Adversary Emulation
+  * Offensive Tool Development
+* Application Security
+  * Android Application Security
+  * Web Application Security
+  * Memory Corruption Vulnerabilities
+* DevOps
+  * Ansible
+  * Docker
+
 
 
   
