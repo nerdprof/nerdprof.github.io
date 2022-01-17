@@ -1,9 +1,9 @@
 ---
-title: "Computer Science 2"
+title: "Capstone Projects"
 collection: teaching
-type: "Undergraduate Course"
-permalink: /teaching/csci142
-venue: "Rochester Institute of Technology, Department of Computer Science"
+type: "Hybrid Undergraduate/Graduate Course"
+permalink: /teaching/0-capstones
+venue: "Rochester Institute of Technology, Department of Computing Security"
 date: 2017-1-1
 location: "Rochester, NY"
 ---
@@ -18,4 +18,3 @@ Heading 2
 
 Heading 3
 ======
-
