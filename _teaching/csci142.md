@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csci142
 venue: "Rochester Institute of Technology, Department of Computer Science"
-date: 2016-2017
+date: 2017-1-1
 location: "Rochester, NY"
 ---
 

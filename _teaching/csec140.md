@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec140
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: 2020 - Present
+date: 2020-8-1
 location: "Rochester, NY"
 ---
 

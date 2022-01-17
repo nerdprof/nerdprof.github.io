@@ -1,10 +1,10 @@
 ---
 title: "Web Server and Application Security Auditing"
 collection: teaching
-type: "Undergraduate Course"
+type: "Graduate Course"
 permalink: /teaching/csec731
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: Spring 2022 - Present
+date: 2017-1-1
 location: "Rochester, NY"
 ---
 

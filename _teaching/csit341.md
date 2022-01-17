@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Data Structures"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/csit341
+venue: "State University of New York at Fredonia, Department of Computing and Information Science"
+date: 2013-6-1
+location: "Fredonia, NY"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -18,3 +18,5 @@ Heading 2
 
 Heading 3
 ======
+
+

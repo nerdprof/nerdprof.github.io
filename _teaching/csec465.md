@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec465
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: Fall 2017 - Fall 2019
+date: 2017-8-1
 location: "Rochester, NY"
 ---
 

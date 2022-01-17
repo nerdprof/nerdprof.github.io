@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to AI"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/csit461
+venue: "State University of New York at Fredonia, Department of Computing and Information Science"
+date: 2009-8-1
+location: "Fredonia, NY"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

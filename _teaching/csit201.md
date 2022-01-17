@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Computer Security and Ethics"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "State University of New York , Department of Computing and Information Science"
-date: Spring 2011 - Present
+permalink: /teaching/csit201
+venue: "State University of New York at Fredonia, Department of Computing and Information Science"
+date: 2011-1-1
 location: "Fredonia, NY"
 ---
 

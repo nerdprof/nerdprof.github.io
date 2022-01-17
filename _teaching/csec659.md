@@ -1,10 +1,10 @@
 ---
 title: "Offensive Security Engineering"
 collection: teaching
-type: "Undergraduate Course"
+type: "Hybrid Undergraduate/Graduate Course"
 permalink: /teaching/csec659
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: Spring 2022 - Present
+date: 2022-1-1
 location: "Rochester, NY"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec380
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: Spring 2022 - Present
+date: 2022-1-1
 location: "Rochester, NY"
 ---
 

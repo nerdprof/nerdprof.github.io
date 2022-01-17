@@ -1,10 +1,10 @@
 ---
 title: "Enterprise Penetration Testing"
 collection: teaching
-type: "Undergraduate Course"
+type: "Graduate Course"
 permalink: /teaching/csec759
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: Spring 2022 - Present
+date: 2018-1-1
 location: "Rochester, NY"
 ---
 
