@@ -1,10 +1,10 @@
 ---
-title: "Computer Science 1"
+title: "Computer and Network System Security Auditing"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec465
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: 2016-2017
+date: Fall 2017 - Fall 2019
 location: "Rochester, NY"
 ---
 

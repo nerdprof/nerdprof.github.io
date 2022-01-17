@@ -1,10 +1,10 @@
 ---
-title: "Computer Science 1"
+title: "Principles of Web Application Security"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec380
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: 2016-2017
+date: Spring 2022 - Present
 location: "Rochester, NY"
 ---
 

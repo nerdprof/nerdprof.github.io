@@ -1,10 +1,10 @@
 ---
-title: "Computer Science 1"
+title: "Programming for Information Security"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec201
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: 2016-2017
+date: Spring 2019
 location: "Rochester, NY"
 ---
 

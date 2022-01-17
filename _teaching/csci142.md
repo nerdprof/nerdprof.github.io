@@ -1,5 +1,5 @@
 ---
-title: "Computer Science 1"
+title: "Computer Science 2"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csci142

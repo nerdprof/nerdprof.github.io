@@ -1,10 +1,10 @@
 ---
-title: "Computer Science 1"
+title: "Mobile Device Security and Forensics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec467
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: 2016-2017
+date: Fall 2016 - Present
 location: "Rochester, NY"
 ---
 

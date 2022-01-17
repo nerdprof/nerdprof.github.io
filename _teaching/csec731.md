@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Web Server and Application Security Auditing"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/csec731
+venue: "Rochester Institute of Technology, Department of Computing Security"
+date: Spring 2022 - Present
+location: "Rochester, NY"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

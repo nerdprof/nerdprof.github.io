@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Authentication and Security Models"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/csec467
+venue: "Rochester Institute of Technology, Department of Computing Security"
+date: Fall 2017 - Spring 2018
+location: "Rochester, NY"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

@@ -1,10 +1,10 @@
 ---
-title: "Computer Science 1"
+title: "Introduction to Cybersecurity"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/csec140
 venue: "Rochester Institute of Technology, Department of Computing Security"
-date: 2016-2017
+date: 2020 - Present
 location: "Rochester, NY"
 ---
 

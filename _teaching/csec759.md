@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Enterprise Penetration Testing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/csec759
+venue: "Rochester Institute of Technology, Department of Computing Security"
+date: Spring 2022 - Present
+location: "Rochester, NY"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -18,3 +18,4 @@ Heading 2
 
 Heading 3
 ======
+
