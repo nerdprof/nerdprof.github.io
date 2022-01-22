@@ -1,6 +1,6 @@
 ---
 title: "Hidden Dragon"
-excerpt: "Password Filter"
+excerpt: "ISTS Red Team Password Filter"
 collection: portfolio
 ---
 
