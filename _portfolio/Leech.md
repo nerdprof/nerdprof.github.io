@@ -1,6 +1,6 @@
 ---
 title: "Leech"
-excerpt: "AppCert DLL Implant<br/><img src='/images/500x300.png'>"
+excerpt: "AppCert DLL Implant"
 collection: portfolio
 ---
 
