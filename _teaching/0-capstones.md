@@ -29,7 +29,7 @@ Graduate Capstone Projects Supervised
 
 Undergraduate Student Capstones Supervised
 ======
-- Spring 2021 - Open Source Android Implant
+- Spring 2021 - Open Source Android Kernel Implant
 - Fall 2021 - Multifactor (Okta) Phishing Application
 - Spring 2021 - Multifactor (Duo) Phishing Application
 - Spring 2021 - Open Sourced Red Team Framework
