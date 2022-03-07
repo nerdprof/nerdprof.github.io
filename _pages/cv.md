@@ -19,7 +19,7 @@ Certifications
 ======
 * 2016,  Offensive Security Certified Professional
 * 2015 - Present, Certified Information Systems Security Professional
-* 2014 - 2017, Certified Ethical Hacker (Laspsed)
+* 2014 - 2017, Certified Ethical Hacker (Lapsed)
 
 Work experience
 ======
