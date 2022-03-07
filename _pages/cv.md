@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, State University of New York at Fredonia, 2005
+* M.S. in Management Information Systems, Nova Southeastern University, 2015
 * M.S. in Interdisciplinary Studies (Cognitive Science), State University of New York at Fredonia, 2007
-* M.S. in Management Information Systems, Nova Southeastern University, 2014
+* B.S. in Computer Science, State University of New York at Fredonia, 2005
+
+Certifications
+======
+* 2016,  Offensive Security Certified Professional
+* 2015 - Present, Certified Information Systems Security Professional
+* 2014 - 2017, Certified Ethical Hacker (Laspsed)
 
 Work experience
 ======
